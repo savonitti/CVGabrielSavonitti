@@ -5,7 +5,7 @@
 Projeto construido para treinar e poder me apresentar.
 Project built to train and present myself.
 
-![preview](./assets/preview.jpg)
+![preview](./.github/preview.jpg)
 
 ## 💼 Tecnologias
 
